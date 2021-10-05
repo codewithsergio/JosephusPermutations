@@ -1,2 +1,2 @@
 # JosephusPermutations
-This project was made in Java and it solves for the permutation of a set of Josephus values.
+This program solves for m in (X,m)-J-Permutation is (a set of numbers); where x is the number of elements in the set. While solving the problem brute force on paper, I noticed a pattern when doing the mod of what's left in the array, it always gave the "count" of the next element that needs to be in the set. With this, my algorithm works with all sets.
