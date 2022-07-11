@@ -10,3 +10,7 @@ Example input:
 Example output:
 
 3
+
+Explanation:
+
+Given 7 numbers, and the numbers are the above given, what value of m skips can give you that permutation? The answer is 3 since if you skip every third, and then after removing every value that you land on continuing with the circle that remains, you will create that permutation.
